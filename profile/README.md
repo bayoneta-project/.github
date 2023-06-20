@@ -1,20 +1,22 @@
 <h1 align="center">Bayoneta</h1>
 <p align="center">
-  <img src="../img2.png" style="width: 10%;" />
+  <img src="https://github.com/bayoneta-project/.github/blob/main/img2.png" style="width: 10%;" />
 </p>
 
-<h2 align="center">Who we are?</h2>
-<p align="center">We are the community, who creating high-quality Minecraft clients</p>
+<h3 align="center">Who we are?</h2>
+<p align="center">We are a community, who creating the high-quality Minecraft clients</p>
+<p align="center">And will create more high-quality clients for other games in future</p>
 
-<h2 align="center">Check out our website -></h2>
+<h3 align="center">Check out our website -></h2>
 <p align="center">https://bayoneta.rip/</p>
 
-<h2 align="center">Check out our discord servers -></h2>
+<h3 align="center">Check out our discord servers -></h2>
 <p align="center">https://discord.gg/mPCwX4vsfr - Bayoneta's main server</p>
 <p align="center">https://discord.io/mcreflection - our developers' server for Mensury and Reflection clients</p>
+<br>
  
 ---
 
 <p align="center">
-  <img src="../img1.png" style="width: 50%;" />
+  <img src="https://github.com/bayoneta-project/.github/blob/main/img1.png" style="width: 50%;" />
 </p>

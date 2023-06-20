@@ -1,6 +1,6 @@
 <h1 align="center">Bayoneta</h1>
 <p align="center">
-  <img src="img2.png" style="width: 10%;" />
+  <img src="../img2.png" style="width: 10%;" />
 </p>
 
 <h2 align="center">Who we are?</h2>
@@ -16,5 +16,5 @@
 ---
 
 <p align="center">
-  <img src="img1.png" style="width: 50%;" />
+  <img src="../img1.png" style="width: 50%;" />
 </p>

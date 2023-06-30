@@ -14,7 +14,7 @@
 <p align="center">https://discord.gg/mPCwX4vsfr - Bayoneta's main server</p>
 <p align="center">https://discord.io/mcreflection - our developers' server for Mensury and Reflection clients</p>
 
-<h3 align="center">Head developer - <a href="https://github.com/dont-doubt">@dont-doubt</a> </h3>
+<h3 align="center">Head developer is <a href="https://github.com/dont-doubt">rivta</a> </h3>
 
 <br>
  
